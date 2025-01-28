@@ -19,17 +19,17 @@ export default function Home() {
         <meta name="distribution" content="Global" />
         <meta name="coverage" content="Worldwide" />
         <meta name="rating" content="General" />
-        <meta name="author" content="Sumaya Najnin" />
-        <meta name="owner" content="Sumaya Najnin" />
+        <meta name="author" content="Sumaiya Najnin" />
+        <meta name="owner" content="Sumaiya Najnin" />
         <meta name="robots" content="index,follow,noodp,noydir" />
-        <meta name="copyright" content="Copyright © Sumaya Najnin" />
+        <meta name="copyright" content="Copyright © Sumaiya Najnin" />
         <meta name="googlebot" content="index, follow" />
         <meta property="og:type" content="website" />
         <meta name="msvalidate.01" content="" />
         <meta name="p:domain_verify" content="" />
-        <meta property="og:site_name" content="Sumaya Najnin" />
+        <meta property="og:site_name" content="Sumaiya Najnin" />
         <meta property="og:description" content="" />
-        <meta property="og:title" content="Sumaya Najnin" />
+        <meta property="og:title" content="Sumaiya Najnin" />
         <meta property="og:image" content="" />
         <meta property="fb:app_id" content="" />
         <meta property="og:image:width" content="1200" />
@@ -38,18 +38,18 @@ export default function Home() {
         <meta name="twitter:site" content="" />
         <meta
           name="twitter:title"
-          content="Sumaya Najnin Portfolio that presents his CV or Resume"
+          content="Sumaiya Najnin Portfolio that presents his CV or Resume"
         />
-        <meta name="twitter:description" content="Sumaya Najnin" />
+        <meta name="twitter:description" content="Sumaiya Najnin" />
         <meta name="twitter:image" content="" />
-        <meta name="keywords" content="Sumaya Najnin" />
+        <meta name="keywords" content="Sumaiya Najnin" />
         <link href="https://sumayanajnin.com.bd" rel="canonical" />
         <meta content="https://sumayanajnin.com.bd" property="og:url" />
-        <meta content="Sumaya Najnin" name="author" />
-        <meta content="Sumaya Najnin Portfolio" name="application-name" />
+        <meta content="Sumaiya Najnin" name="author" />
+        <meta content="Sumaiya Najnin Portfolio" name="application-name" />
 
         <link rel="shortcut icon" href="/" />
-        <title>Sumaya Najnin - CV | Portfolio</title>
+        <title>Sumaiya Najnin - CV | Portfolio</title>
       </Head>
       <Cv />
     </>
