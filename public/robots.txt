@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://sumayanajnin.com.bd
+
+# Sitemaps
+Sitemap: https://sumayanajnin.com.bd/sitemap.xml
