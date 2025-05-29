@@ -74,35 +74,37 @@ const Conference = () => {
           <h3 className="md:text-xl font-semibold">
             English Language Teaching Online Conference (ELTOC) Chapter 10
           </h3>
-          <p>Oxford University Press | 2024</p>
+          <p>Oxford University Press | 2025</p>
           <ul className="list-disc pl-5 py-2">
             <li>
-              Developing creativity in primary school learners with Matthew
-              Blacker.
+              AI: Its past and future in education with Peter Sandford, Neil
+              Ainsworth and Jo Szoke
             </li>
-            <li>How AI can save teachers' time with Esra Ezici.</li>
+            <li>Creative collaboration with AI with Jo Szoke</li>
             <li>
-              New perspectives on inclusive language teaching with Judit Kormos.
+              Accent and identity in language education with Gemma Archer,
+              Montse Costafreda and Aysu Simsek
             </li>
+            <li>Challenging the native speaker fallacy with Aysu Simsek</li>
             <li>
-              Video and multimodal literacy in the language classroom with Nik
-              Peachey
-            </li>
-            <li>
-              How to incorporate cultural knowledge into your students'
-              conversations with Christopher Korten
+              Helping students develop confidence in the skill of speaking with
+              Philip Haines
             </li>
             <li>
-              Teacher and student engagement and motivation with Eduardo Whitlam
+              Encouraging positive washback in exam preparation with Riccardo
+              Chiappini
             </li>
-            <li>The power of concept-based inquiry with Carla Marschall </li>
+            <li>Wellbeing in the young learner classroom with Erika Osvath.</li>
             <li>
-              Shape tomorrow’s changemakers in the primary language classroom
-              with Fiona Beddall{" "}
+              The power of presence: motivating learners through social
+              interaction with Nick Thorner
             </li>
             <li>
-              Three steps to successful assessment for learning with Gordon
-              Stobart{" "}
+              Understanding and implementing mediation in language assessment
+              with Nate Owen
+            </li>
+            <li>
+              Humanising language education with compassion with Sarah Mercer
             </li>
           </ul>
         </div>
